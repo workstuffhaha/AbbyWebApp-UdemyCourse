@@ -13,13 +13,14 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+// these are all middleware
+// UseHttpsRedirection, UseStaticFiles, UseRouting, UseAuthorization, MapRazorPages etc
 app.UseHttpsRedirection();
-app.UseStaticFiles();
-
+app.UseStaticFiles(); 
 app.UseRouting();
 
 app.UseAuthorization();
 
-app.MapRazorPages();
+app.MapRazorPages();// configure the routing of razor pages, it will be able to map the url pages.
 
 app.Run();

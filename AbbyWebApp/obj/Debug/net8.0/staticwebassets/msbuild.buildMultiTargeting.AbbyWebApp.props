@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AbbyWebApp.props" />
+</Project>

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AbbyWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2366f1aa970bf886d0f103452bd1927cfb09beac")]
 [assembly: System.Reflection.AssemblyProductAttribute("AbbyWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AbbyWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
